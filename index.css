@@ -1,5 +1,5 @@
 .inline-element {
-    display: inline;
+    display: inline-block;
 }
 
 header {
@@ -15,4 +15,6 @@ header {
 h2 {
     color:antiquewhite;
     background-color: green;
+    border: 5px solid dodgerblue;
 }
+
