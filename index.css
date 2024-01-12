@@ -1,9 +1,19 @@
 
 header {
-    font-family: Arial, Helvetica, sans-serif;
-    color: rgb(106, 106, 123);
+    font-family: 'Times New Roman', Times, serif;
+    color: green;
     text-align: center;
 }
+
+.list-title {
+    font-family: 'Times New Roman', Times, serif;
+    display: ;
+    color:antiquewhite;
+    background-color: green;
+    padding: 5px;
+    border: 5px solid rgb(34, 246, 1);
+}
+
 
 .gray-background {
     display: inline-block;
@@ -12,21 +22,13 @@ header {
     background-color: grey;
     margin: 10px;
     border: 0;
-    padding: 10px;
+    padding: 2px 20px;
 }
 
 .resize-image {
-    width: 125px;
-    height: 125px;
+    width: 150px;
+    height: 108px;
+    padding: 2px 20px;
 }
 
-
-
-h2 {
-    font-family: Helvetica;
-    color:antiquewhite;
-    background-color: green;
-    padding: 5px;
-    border: 5px solid rgb(34, 246, 1);
-}
 
